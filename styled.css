@@ -1,0 +1,30 @@
+.firstContainer {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  padding-top: 50px;
+  border: solid 5px tomato;
+}
+.listItem {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.hederContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1440px;
+  margin: 0 auto;
+  padding: 50px 100px 0 100px;
+  background-color: aqua;
+}
+.navList {
+  display: flex;
+  margin: 0px -20px;
+}
+
+.navLi {
+  margin: 20px;
+  background-color: green;
+}
